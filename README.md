@@ -71,4 +71,5 @@ ___
   <img src="files/images/pycharm.png" width="40" height="40" title="pycharm" alt="pycharm">
   <img src="files/images/postman.png" width="40" height="40" title="postman" alt="postman">
   <img src="files/images/stack_logo.png" width="39" height="39" title="stack overflow" alt="stack overflow">
+  <img src="https://camo.githubusercontent.com/b6179e57bdea2f3eeb1f703ac2e36a2eac803040600c0d34f3f052f5a17653c4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65392f4e6f74696f6e2d6c6f676f2e737667" width="40" height="40" title="notion" alt="notion">  
 </div>
