@@ -5,8 +5,6 @@
  <img width="900" height="300" src="files/coding_2.gif" alt="snake"/>
 </p>
 
-![coding_2](https://github.com/FakaFakaYeah/FakaFakaYeah/assets/108368653/9dca718e-5ad8-468a-bf33-c107be6b12e0)
-
 
 ### :man_technologist: Обо мне:
 
