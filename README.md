@@ -57,7 +57,7 @@ ___
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   </a>
   <a href="https://docs.pytest.org/en/latest/contents.html">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="48" height="48"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   </a>
 </div>
 
