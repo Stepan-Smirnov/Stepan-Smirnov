@@ -1,9 +1,12 @@
-### Hi there 👋
+# Привет, меня зовут Степан! 👋
 
-<!--
-**FakaFakaYeah/FakaFakaYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+### :man_technologist: Обо мне:
+
+Web-разработкой занимаюсь 1.5 года. С июля 2022 по август 2023 проходил
+обучение на курсах Яндекс Практикум по специальности python-разработчик.
+В настоящий момент нахожусь в поисках работы и участвую в open source проектах.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+___
