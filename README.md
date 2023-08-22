@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img width="900" height="300" src="files/coding.gif" alt="snake"/>
+ <img width="900" height="300" src="files/coding_2.gif" alt="snake"/>
 </p>
 
 ### :man_technologist: Обо мне:
