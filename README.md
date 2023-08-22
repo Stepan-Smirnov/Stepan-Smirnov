@@ -39,12 +39,8 @@ ___
 ### 💻 Технологии:
 <div>
   <a href="https://www.python.org/">
-    <img src="files/images/python.png" width="40" height="40" alt="Вконтакте">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="files/images/python.png" width="40" height="40" title="python" alt="Вконтакте">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="git" width="40" height="40"/>&nbsp
   </a>
 </div>
-
 
 ---
