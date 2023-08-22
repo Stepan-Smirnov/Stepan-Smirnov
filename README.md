@@ -14,7 +14,7 @@ Web-разработкой занимаюсь 1.5 года. С июля 2022 п�
 📫 Как связаться со мной:
 <div id="badges">
     <a href="https://t.me/s_smirnov_work" target="_blank">
-      <img src=files/images/telegram.png width="41" height="41" alt="telegram"/>
+      <img src=files/images/telegram.png width="40" height="40" alt="telegram"/>
     </a>
     <a>
       <img src=files/images/mail.png width="40" height="40"  alt="mail"/>
