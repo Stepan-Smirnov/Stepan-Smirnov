@@ -53,6 +53,9 @@ ___
   <a href="https://docs.pytest.org/en/latest/contents.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="45" height="45"/>&nbsp
   </a>
+  <a href="https://git-scm.com/book/ru/v2">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  </a>
 </div>
 
 ---
