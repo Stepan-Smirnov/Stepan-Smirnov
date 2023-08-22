@@ -1,5 +1,8 @@
 # Привет, меня зовут Степан! 👋
 
+<p align="center">
+ <img width="300" src="files/123.gif" alt="snake"/>
+</p>
 ___
 
 ### :man_technologist: Обо мне:
