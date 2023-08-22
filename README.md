@@ -18,10 +18,10 @@ Web-разработкой занимаюсь 1.5 года. С июля 2022 п�
     <a href="https://t.me/s_smirnov_work" target="_blank">
       <img src=files/images/telegram.png width="40" height="40" alt="telegram"/>
     </a>
-    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a>
+      <img src=files/images/mail.png width="40" height="40" alt="telegram"/>
     </a>
-  </div>
+</div>
 
 
 
