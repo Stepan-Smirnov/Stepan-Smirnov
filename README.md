@@ -70,4 +70,5 @@ ___
 <div>
   <img src="files/images/pycharm.png" width="40" height="40" title="pycharm" alt="pycharm">
   <img src="files/images/postman.png" width="40" height="40" title="postman" alt="postman">
+  <img src="files/images/stack.png" width="35" height="35" title="stack overflow" alt="stack overflow">
 </div>
