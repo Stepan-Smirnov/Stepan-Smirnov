@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img width="900" height="300" src="files/hacker-reality-colored-keyboard.gif" alt="snake"/>
+ <img width="900" height="300" src="files/coding.gif" alt="snake"/>
 </p>
 
 ### :man_technologist: Обо мне:
