@@ -3,10 +3,11 @@
 
 ___
 
-### :man_technologist: Обо мне:
 <p align="center">
  <img width="300" src="files/cat-computer.gif" alt="snake"/>
 </p>
+
+### :man_technologist: Обо мне:
 
 Web-разработкой занимаюсь 1.5 года. С июля 2022 по август 2023 проходил
 обучение на курсах Яндекс Практикум по специальности python-разработчик.
