@@ -65,3 +65,7 @@ ___
 </div>
 
 ---
+
+### 🛠 Инструменты:
+
+<img src="files/images/pycharm.png" width="40" height="40" title="pycharm" alt="pycharm">
