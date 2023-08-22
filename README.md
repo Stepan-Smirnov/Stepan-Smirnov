@@ -29,6 +29,9 @@ ___
   <a href="https://vk.com/cifrnet">
     <img src="files/images/vk.png" width="40" height="40" alt="Вконтакте">
   </a>
+  <a href="https://instagram.com/eto_diko_naprimer?igshid=MzRlODBiNWFlZA==">
+    <img src="files/images/instagram.png" width="40" height="40" alt="Instagram">
+  </a>
 </div>
 
 ---
