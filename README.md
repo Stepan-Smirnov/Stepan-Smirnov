@@ -59,6 +59,9 @@ ___
   <a href="https://docs.pytest.org/en/latest/contents.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  </a>
 </div>
 
 ---
