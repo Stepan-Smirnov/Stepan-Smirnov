@@ -1,8 +1,6 @@
 # Привет, меня зовут Степан! 👋
 
 
-___
-
 <p align="center">
  <img width="300" src="files/cat-computer.gif" alt="snake"/>
 </p>
