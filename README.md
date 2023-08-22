@@ -39,7 +39,10 @@ ___
 ### 💻 Технологии:
 <div>
   <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="git" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://docs.djangoproject.com/en/4.2/">
+    <img src="files/images/django.png" title="python" alt="django" width="40" height="40"/>&nbsp
   </a>
 </div>
 
