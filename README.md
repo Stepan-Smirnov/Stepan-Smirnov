@@ -35,3 +35,16 @@ ___
 </div>
 
 ---
+
+### 💻 Технологии:
+<div>
+  <a href="https://www.python.org/">
+    <img src="files/images/python.png" width="40" height="40" alt="Вконтакте">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="files/images/python.png" width="40" height="40" title="python" alt="Вконтакте">
+  </a>
+</div>
+
+
+---
