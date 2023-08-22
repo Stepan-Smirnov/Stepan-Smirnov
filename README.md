@@ -19,7 +19,7 @@ Web-разработкой занимаюсь 1.5 года. С июля 2022 п�
       <img src=files/images/telegram.png width="40" height="40" alt="telegram"/>
     </a>
     <a>
-      <img src=files/images/mail.png width="40" height="40"  alt="telegram"/>
+      <img src=files/images/mail.png width="40" height="40"  alt="mail"/>
     </a>
 </div>
 
