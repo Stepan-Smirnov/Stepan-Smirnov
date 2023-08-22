@@ -47,6 +47,9 @@ ___
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fast api" alt="fast api" width="40" height="40"/>&nbsp
   </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
+  </a>
 </div>
 
 ---
