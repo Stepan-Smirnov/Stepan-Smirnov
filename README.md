@@ -36,7 +36,7 @@ ___
 
 ---
 
-### 💻 Cтэк технологий:
+### 💻 Технологии:
 <div>
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -52,6 +52,9 @@ ___
   </a>
   <a href="https://www.postgresql.org/docs/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://docs.docker.com/desktop/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   </a>
   <a href="https://docs.pytest.org/en/latest/contents.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="48" height="48"/>&nbsp
