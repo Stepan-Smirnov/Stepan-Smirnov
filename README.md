@@ -81,3 +81,5 @@ ___
     <img src="files/images/instagram.png" width="40" height="40" alt="Instagram">
   </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakafakayeah&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
