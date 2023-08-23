@@ -52,6 +52,9 @@ ___
   <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="39" height="39"/>&nbsp
   </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="39" height="39"/>&nbsp
+  </a>
 </div>
 
 ---
