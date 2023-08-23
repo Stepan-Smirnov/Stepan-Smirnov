@@ -84,4 +84,15 @@ ___
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakafakayeah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FakaFakaYeah&theme=dracula" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FakaFakaYeah&theme=dracula" />
+    </td>
+  </tr>
+</table>
