@@ -1,7 +1,7 @@
 # Привет, меня зовут Степан! 👋
 
 
-![giphy](https://github.com/FakaFakaYeah/FakaFakaYeah/assets/108368653/9c7e8110-2583-402c-afcb-44acd5a3f9b9)
+
 
 
 
