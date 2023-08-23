@@ -1,7 +1,8 @@
 # Привет, меня зовут Степан! 👋
 
 
-<img src="https://github.com/FakaFakaYeah/FakaFakaYeah/blob/main/files/coding.gif" width="900" height="300"/>
+![giphy](https://github.com/FakaFakaYeah/FakaFakaYeah/assets/108368653/9c7e8110-2583-402c-afcb-44acd5a3f9b9)
+
 
 
 ### :man_technologist: Обо мне:
