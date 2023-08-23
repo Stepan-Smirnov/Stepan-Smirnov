@@ -50,7 +50,7 @@ ___
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   </a>
   <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="39" height="39"/>&nbsp
   </a>
 </div>
 
