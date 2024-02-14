@@ -1,5 +1,4 @@
-![alt text](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<img align="right" alt="coding" width="400" src="files/123.png">
 
 # Привет, меня зовут Степан! 👋   
      
