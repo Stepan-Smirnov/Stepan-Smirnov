@@ -1,5 +1,6 @@
 <img align="right" alt="coding" width="400" 
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+src="![image](https://github.com/FakaFakaYeah/FakaFakaYeah/assets/108368653/fe69a674-e6b7-4b58-827e-22e2f629a320)
+">
 
 # Привет, меня зовут Степан! 👋   
      
