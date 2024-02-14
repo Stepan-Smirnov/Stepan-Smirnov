@@ -1,6 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-# Привет, меня зовут Степан! 👋   
+
+# Привет, меня зовут Степан! 👋    ![giphy.gif](files%2Fgiphy.gif)
      
 
 📫 Как связаться со мной:
