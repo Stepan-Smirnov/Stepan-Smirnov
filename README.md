@@ -1,6 +1,6 @@
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-# Привет, меня зовут Степан! 👋    ![giphy.gif](files%2Fgiphy.gif)
+# Привет, меня зовут Степан! 👋   
      
 
 📫 Как связаться со мной:
