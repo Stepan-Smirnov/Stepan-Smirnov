@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="files/123.png">
+<img align="right" alt="coding" width="400" src="files/123.png"> 
 
 # Привет, меня зовут Степан! 👋     
       
