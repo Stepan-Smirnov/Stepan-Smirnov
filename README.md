@@ -7,7 +7,7 @@
     <a href="https://t.me/s_smirnov_work" target="_blank">
       <img src=files/images/telegram.png width="40" height="40" alt="telegram"/>
     </a>
-    <a>
+    <a> 
       <img src=files/images/mail.png width="40" height="40"  alt="mail"/>
     </a>
 </div>
