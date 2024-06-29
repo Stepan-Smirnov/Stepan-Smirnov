@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" src="files/123.png">  
   
 # Привет, меня зовут Степан! 👋     
-         
+          
 📫 Как связаться со мной:
 <div id="badges">
     <a href="https://t.me/s_smirnov_work" target="_blank">
