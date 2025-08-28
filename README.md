@@ -21,7 +21,7 @@ ___
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
   </a>
   <a href="https://docs.djangoproject.com/en/4.2/">
-    <img src="files/images/django.png" title="django" alt="django" width="40" height="40"/>&nbsp
+    <img src="files/images/django.png" title="django" alt="django" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fast api" alt="fast api" width="40" height="40"/>&nbsp
