@@ -17,36 +17,16 @@ ___
 
 ### 💻 Технологии:
 <div>
-  <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://docs.djangoproject.com/en/4.2/">
     <img src="files/images/django.png" title="django" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fast api" alt="fast api" width="40" height="40"/>&nbsp
-  </a>
-  <a href="https://git-scm.com/book/ru/v2">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  </a>
-  <a href="https://www.postgresql.org/docs/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
-  </a>
-  <a href="https://docs.docker.com/desktop/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  </a>
-  <a href="https://docs.pytest.org/en/latest/contents.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  </a>
-  <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  </a>
-  <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="39" height="39"/>&nbsp
-  </a>
-  <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="39" height="39"/>&nbsp
-  </a>
 </div>
 
 ---
@@ -67,10 +47,10 @@ ___
 
 <div id="badges">
   <a href="https://vk.com/cifrnet">
-    <img src="files/images/vk.png" width="40" height="40" alt="Вконтакте">
+    <img src="files/images/vk.png" width="40" height="40">
   </a>
   <a href="https://instagram.com/eto_diko_naprimer?igshid=MzRlODBiNWFlZA==">
-    <img src="files/images/instagram.png" width="40" height="40" alt="Instagram">
+    <img src="files/images/instagram.png" width="40" height="40">
   </a>
 </div>
 
