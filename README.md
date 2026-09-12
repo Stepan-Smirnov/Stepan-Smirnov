@@ -1,19 +1,15 @@
-# Hi, I'm Stepan 👋
-
-<img src="files/banner.svg" alt="Stepan Smirnov - Python Backend Developer" width="900"/>
+<img src="files/banner.svg" alt="Hi, I'm Stepan - Backend Developer" width="100%"/>
 
 I'm a backend developer focused on async APIs and distributed systems with **FastAPI**, **gRPC**, **PostgreSQL**, and message brokers. I also work with observability stacks — **Grafana**, **Loki**, **Tempo**, and **Prometheus**. Based in **Yaroslavl**, currently **open to work**.
 
----
+### Contact
 
-### 📫 Contact
+<p>
+  <a href="https://t.me/s_smirnov_work" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" style="margin-right: 6px;"/></a>
+  <a href="mailto:fakafaka270695@yandex.ru"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Email"/></a>
+</p>
 
-<a href="https://t.me/s_smirnov_work" target="_blank"><img src="https://img.shields.io/badge/Telegram-@s__smirnov__work-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 10px; margin: 3px;"/></a>
-<a href="mailto:fakafaka270695@yandex.ru"><img src="https://img.shields.io/badge/Email-fakafaka270695@yandex.ru-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius: 10px; margin: 3px;"/></a>
-
----
-
-### 💻 Tech Stack
+### Tech Stack
 
 **Backend**
 
@@ -55,7 +51,3 @@ I'm a backend developer focused on async APIs and distributed systems with **Fas
 <a href="https://docs.astral.sh/uv/" target="_blank"><img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=astral&logoColor=white" alt="uv" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" style="border-radius: 10px; margin: 3px;"/></a>
-
----
-
-<sub>Open to backend / Python developer opportunities — feel free to reach out via Telegram or email.</sub>
