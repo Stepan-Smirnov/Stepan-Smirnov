@@ -1,10 +1,6 @@
-<img src="files/banner.svg?v=2" alt="Hi, I'm Stepan - Backend Developer" width="100%"/>
-
-Backend developer focused on async APIs and distributed systems. Based in Yaroslavl.
-
-### Contact
-
-<p>
+<img src="files/banner.png" alt="Hi, I'm Stepan - Backend Developer" width="100%" style="display: block; margin-bottom: 0;"/>
+<h3 style="margin-top: 6px; margin-bottom: 4px;">Contact</h3>
+<p style="margin-top: 0;">
   <a href="https://t.me/s_smirnov_work" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" style="margin-right: 6px;"/></a>
   <a href="mailto:fakafaka270695@yandex.ru"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Email"/></a>
 </p>
