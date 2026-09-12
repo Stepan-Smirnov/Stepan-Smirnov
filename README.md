@@ -1,4 +1,4 @@
-<img src="files/banner.png" alt="Hi, I'm Stepan - Backend Developer" width="100%" style="display: block; margin-bottom: 0;"/>
+<img src="files/profile-banner.png" alt="Hi, I'm Stepan - Backend Developer" width="100%" style="display: block; margin-bottom: 0;"/>
 <h3 style="margin-top: 6px; margin-bottom: 4px;">Contact</h3>
 <p style="margin-top: 0;">
   <a href="https://t.me/s_smirnov_work" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" style="margin-right: 6px;"/></a>
