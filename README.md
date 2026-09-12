@@ -8,7 +8,7 @@
 
 <p align="left"><strong>Tech Stack</strong></p>
 
-<p align="left"><img src="files/headings/backend.svg" alt="Backend"/></p>
+<p align="left"><img src="files/headings/backend.png" alt="Backend" height="28"/></p>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" style="border-radius: 10px; margin: 3px;"/></a>
@@ -22,7 +22,7 @@
 <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3" style="border-radius: 10px; margin: 3px;"/></a>
 </p>
 
-<p align="left"><img src="files/headings/devops.svg" alt="DevOps and Infrastructure"/></p>
+<p align="left"><img src="files/headings/devops.png" alt="DevOps and Infrastructure" height="28"/></p>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; margin: 3px;"/></a>
@@ -31,7 +31,7 @@
 <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" style="border-radius: 10px; margin: 3px;"/></a>
 </p>
 
-<p align="left"><img src="files/headings/observability.svg" alt="Observability"/></p>
+<p align="left"><img src="files/headings/observability.png" alt="Observability" height="28"/></p>
 <p align="left">
 <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" style="border-radius: 10px; margin: 3px;"/></a>
@@ -40,14 +40,14 @@
 <a href="https://grafana.com/oss/alloy/" target="_blank"><img src="https://img.shields.io/badge/Alloy-F59E0B?style=flat&logo=grafana&logoColor=white" alt="Alloy" style="border-radius: 10px; margin: 3px;"/></a>
 </p>
 
-<p align="left"><img src="files/headings/testing.svg" alt="Testing and Code Quality"/></p>
+<p align="left"><img src="files/headings/testing.png" alt="Testing and Code Quality" height="28"/></p>
 <p align="left">
 <a href="https://docs.pytest.org/" target="_blank"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://docs.astral.sh/ruff/" target="_blank"><img src="https://img.shields.io/badge/Ruff-261230?style=flat&logo=ruff&logoColor=D7FF64" alt="Ruff" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://pre-commit.com/" target="_blank"><img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat&logo=precommit&logoColor=black" alt="pre-commit" style="border-radius: 10px; margin: 3px;"/></a>
 </p>
 
-<p align="left"><img src="files/headings/tools.svg" alt="Tools"/></p>
+<p align="left"><img src="files/headings/tools.png" alt="Tools" height="28"/></p>
 <p align="left">
 <a href="https://docs.astral.sh/uv/" target="_blank"><img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=astral&logoColor=white" alt="uv" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="border-radius: 10px; margin: 3px;"/></a>
