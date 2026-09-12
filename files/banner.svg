@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Stepan Smirnov - Python Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5F3FF"/>
+      <stop offset="100%" stop-color="#EDE9FE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+
+  <circle cx="760" cy="52" r="34" fill="#DDD6FE" opacity="0.9"/>
+  <circle cx="820" cy="170" r="22" fill="#C4B5FD" opacity="0.55"/>
+  <circle cx="690" cy="180" r="16" fill="#DDD6FE" opacity="0.7"/>
+
+  <text x="56" y="92" fill="#4C1D95" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="1.5">STEPAN SMIRNOV</text>
+  <text x="56" y="132" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">python backend developer | open to work</text>
+
+  <g transform="translate(620, 28)">
+    <rect x="120" y="96" width="96" height="58" rx="8" fill="#64748B"/>
+    <rect x="126" y="102" width="84" height="42" rx="4" fill="#1E293B"/>
+    <rect x="132" y="108" width="36" height="4" rx="2" fill="#38BDF8"/>
+    <rect x="132" y="118" width="52" height="4" rx="2" fill="#94A3B8"/>
+    <rect x="132" y="128" width="44" height="4" rx="2" fill="#94A3B8"/>
+    <circle cx="92" cy="58" r="24" fill="#FDBA74"/>
+    <path d="M68 88 C68 72, 82 66, 92 66 C102 66, 116 72, 116 88 L116 112 C116 124, 106 132, 92 132 C78 132, 68 124, 68 112 Z" fill="#2563EB"/>
+    <path d="M116 98 C132 98, 144 108, 148 122 L148 136 L116 136 Z" fill="#FDBA74"/>
+    <path d="M68 98 C52 98, 40 108, 36 122 L36 136 L68 136 Z" fill="#FDBA74"/>
+  </g>
+</svg>
