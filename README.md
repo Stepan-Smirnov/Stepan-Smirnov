@@ -1,6 +1,6 @@
-<img src="files/banner.svg" alt="Hi, I'm Stepan - Backend Developer" width="100%"/>
+<img src="files/banner.svg?v=2" alt="Hi, I'm Stepan - Backend Developer" width="100%"/>
 
-I'm a backend developer focused on async APIs and distributed systems with **FastAPI**, **gRPC**, **PostgreSQL**, and message brokers. I also work with observability stacks — **Grafana**, **Loki**, **Tempo**, and **Prometheus**. Based in **Yaroslavl**, currently **open to work**.
+Backend developer focused on async APIs and distributed systems. Based in Yaroslavl.
 
 ### Contact
 
@@ -36,9 +36,9 @@ I'm a backend developer focused on async APIs and distributed systems with **Fas
 
 <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" style="border-radius: 10px; margin: 3px;"/></a>
 <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" style="border-radius: 10px; margin: 3px;"/></a>
-<a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white" alt="Loki" style="border-radius: 10px; margin: 3px;"/></a>
-<a href="https://grafana.com/oss/tempo/" target="_blank"><img src="https://img.shields.io/badge/Tempo-F46800?style=flat&logo=grafana&logoColor=white" alt="Tempo" style="border-radius: 10px; margin: 3px;"/></a>
-<a href="https://grafana.com/oss/alloy/" target="_blank"><img src="https://img.shields.io/badge/Alloy-F46800?style=flat&logo=grafana&logoColor=white" alt="Alloy" style="border-radius: 10px; margin: 3px;"/></a>
+<a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://img.shields.io/badge/Loki-10B981?style=flat&logo=grafana&logoColor=white" alt="Loki" style="border-radius: 10px; margin: 3px;"/></a>
+<a href="https://grafana.com/oss/tempo/" target="_blank"><img src="https://img.shields.io/badge/Tempo-EC4899?style=flat&logo=grafana&logoColor=white" alt="Tempo" style="border-radius: 10px; margin: 3px;"/></a>
+<a href="https://grafana.com/oss/alloy/" target="_blank"><img src="https://img.shields.io/badge/Alloy-F59E0B?style=flat&logo=grafana&logoColor=white" alt="Alloy" style="border-radius: 10px; margin: 3px;"/></a>
 
 **Testing & Code Quality**
 
