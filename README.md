@@ -1,11 +1,11 @@
 <img src="files/profile-banner.png" alt="Hi, I'm Stepan - Backend Developer" width="100%" style="display: block; margin-bottom: 0;"/>
-<img src="files/headings/contact.svg" alt="Contact" height="32"/>
+<h3 style="margin: 6px 0 4px 0; font-weight: 600;">Contact</h3>
 <p style="margin-top: 0;">
   <a href="https://t.me/s_smirnov_work" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="26" height="26" alt="Telegram" style="margin-right: 6px;"/></a>
   <a href="mailto:fakafaka270695@yandex.ru"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26" height="26" alt="Email"/></a>
 </p>
 
-<img src="files/headings/tech-stack.svg" alt="Tech Stack" height="32"/>
+<h3 style="margin: 18px 0 10px 0; font-weight: 600;">Tech Stack</h3>
 
 <img src="files/headings/backend.svg" alt="Backend" height="20"/>
 
